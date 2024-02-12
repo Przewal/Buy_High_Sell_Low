@@ -29,6 +29,8 @@
 
 ***Note*** - Bokeh plot needs to be downgraded to run with the streamlit interface.
 
+***Note-2*** - Use your own secret key from openAI in P3, line 7. 
+
 
 ### The Idea
 Combining Portfolio Analysis, Trading Algorithms with Machine Learning, and Roboadvisor functionalities.

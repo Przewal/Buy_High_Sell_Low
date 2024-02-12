@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("Midas Bot")
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
